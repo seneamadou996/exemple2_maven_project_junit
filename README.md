@@ -1,0 +1,1 @@
+# exemple2_maven_project_junit
